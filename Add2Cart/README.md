@@ -17,11 +17,11 @@ The project consists of four main components:
 
 The following packages were installed and utilized in this project:
 
-1) Bootstrap: A front-end framework for developing responsive and mobile-first websites.
-2) Bootstrap Icons: A library of SVG icons to enhance the user interface.
-3) React Bootstrap: A library that provides Bootstrap components as React components.
-4) React Router DOM: A routing library for React applications, used for navigation between different components.
-5) React Toastify: A toast notification library for React applications, used to display success messages.
+1) Bootstrap : A front-end framework for developing responsive and mobile-first websites.
+2) Bootstrap Icons : A library of SVG icons to enhance the user interface.
+3) React Bootstrap : A library that provides Bootstrap components as React components.
+4) React Router DOM : A routing library for React applications, used for navigation between different components.
+5) React Toastify : A toast notification library for React applications, used to display success messages.
 
 <b>Vite :</b> A next-generation front-end tooling tool that provides a fast development server, instant hot module replacement (HMR), and optimized build times.
 
