@@ -1,0 +1,115 @@
+[
+    {
+        "id"  : 1,
+        "name": "Dum Tea",
+        "price" : "10",
+        "ftype" : "Hot Drinks",
+        "pimg" : "src/assets/ProductImages/tea.png",
+        "latest" : "No"
+
+},
+
+{
+    "id"  : 2,
+    "name": "Lemon Tea",
+    "price" : "15",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "No"
+
+},
+
+{
+    "id"  : 3,
+    "name": "Green Tea",
+    "price" : "15",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "No"
+
+},
+
+{
+    "id"  : 4,
+    "name": "Black Tea",
+    "price" : "15",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "Yes"
+
+},
+
+{
+    "id"  : 5,
+    "name": "Milk",
+    "price" : "15",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "No"
+
+},
+
+{
+    "id"  : 6,
+    "name": "Ginger Tea",
+    "price" : "20",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "No"
+
+},
+
+{
+    "id"  : 7,
+    "name": "Coffee",
+    "price" : "20",
+    "ftype" : "Hot Drinks",
+    "pimg" : "src/assets/ProductImages/tea.png",
+    "latest" : "No"
+
+},
+
+{
+    "id"  : 8,
+    "name": "Rose Milk",
+    "price" : "30",
+    "ftype" : "Cool Drinks",
+    "pimg" : "src/assets/ProductImages/juice.png",
+    "latest" : "No"
+
+},
+{
+    "id"  : 9,
+    "name": "Chacolate Milk",
+    "price" : "30",
+    "ftype" : "Cool Drinks",
+    "pimg" : "src/assets/ProductImages/juice.png",
+    "latest" : "No"
+
+},{
+    "id"  : 10,
+    "name": "Lassi",
+    "price" : "30",
+    "ftype" : "Cool Drinks",
+    "pimg" : "src/assets/ProductImages/juice.png",
+    "latest" : "Yes"
+
+},
+{
+    "id"  : 11,
+    "name": "Flavored Lassi",
+    "price" : "40",
+    "ftype" : "Cool Drinks",
+    "pimg" : "src/assets/ProductImages/juice.png",
+    "latest" : "No"
+
+},
+{
+    "id"  : 12,
+    "name": "Badam Milk",
+    "price" : "30",
+    "ftype" : "Cool Drinks",
+    "pimg" : "src/assets/ProductImages/juice.png",
+    "latest" : "No"
+}
+]

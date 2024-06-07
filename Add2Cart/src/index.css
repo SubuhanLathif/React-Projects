@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {margin: 0;padding:0;box-sizing: border-box !important;font-family:"Lato", sans-serif;font-weight: 400;
+  font-style: normal;}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.table th,.table td {padding:1rem !important;}
+.table tr {vertical-align: middle;}
+.table tr:nth-last-child(2) {border-bottom:2px solid;}
+.table img {width:100px;height:100px;object-fit:cover;}
+.table .qty-input {width:50px;text-align: center;}
+.btn-checkout{background-color: #8F00FF !important;color:#fff !important;}
+.bg-ass{background-color: #dee2e6 !important;}
+.nav-tabs {display: flex;justify-content: space-between;border-bottom:0 !important;}
+.nav-tabs li {width:49%;}
+.nav-tabs li button {width:100%;border: 2px solid #0005 !important;border-radius: 5px;}
+.nav-tabs .nav-link {color:#000;}
+.nav-tabs .nav-link.active{background-color: black !important;color:#ffffff !important;}
+.Toastify__progress-bar--wrp {height:3px !important;}
