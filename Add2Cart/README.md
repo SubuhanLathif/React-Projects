@@ -8,10 +8,10 @@ In this Simple Add2Cart project, we've created a basic e-commerce application wh
 
 The project consists of four main components:
 
-1) Header Component: This component displays the header section of the application, providing navigation links and other relevant information.
-2) Home Component: The home component serves as the landing page of the application, showcasing featured products or any other relevant content.
-3) Products Component: This component displays the list of products available for purchase. Users can view details of each product and add them to their cart from this page.
-4) ViewCart Component: The ViewCart component allows users to view the items they've added to their cart. It provides functionality to adjust the quantity of items, remove items from the cart, and proceed to checkout.
+1) Header Component : This component displays the header section of the application, providing navigation links and other relevant information.
+2) Home Component : The home component serves as the landing page of the application, showcasing featured products or any other relevant content.
+3) Products Component : This component displays the list of products available for purchase. Users can view details of each product and add them to their cart from this page.
+4) ViewCart Component : The ViewCart component allows users to view the items they've added to their cart. It provides functionality to adjust the quantity of items, remove items from the cart, and proceed to checkout.
 
 <b>Technologies Used</b>
 
