@@ -35,6 +35,6 @@ To run the Add2Cart project locally, follow these steps:
 4) Start the development server using npm run dev or yarn dev.
 5) Open your browser and visit the specified local server address to view the application.
    
-<b>Contribution : </b>Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
+<b>Contribution : </b> Subuhan Lathif
 
 <b>License : </b>This project is licensed under the MIT License.
