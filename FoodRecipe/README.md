@@ -20,11 +20,11 @@ This project utilizes the Forkify API to fetch and display recipes. Users can vi
    b) RecipeItem.jsx: Component for displaying individual recipe details.
    c) Footer.jsx : Contains code for the Footer.
 
-2) Context Folder
+3) Context Folder
 
    a) GlobalContext.jsx: Manages project functionality, including fetching data from the API, handling search functionality, managing adding/removing from favorites, and maintaining the favorites list.
 
-3) Pages Folder
+4) Pages Folder
 
    a) Home.jsx: Displays initial recipe items.
    b) Details.jsx: Shows full details of a specific recipe, including ingredients.
