@@ -16,8 +16,8 @@ This project utilizes the Forkify API to fetch and display recipes. Users can vi
 
 1) Components Folder
 
-   a) Navbar.jsx : Contains code for the navigation bar.
-   b) RecipeItem.jsx: Component for displaying individual recipe details.
+   a) Navbar.jsx : Contains code for the navigation bar.                                                                                  
+   b) RecipeItem.jsx: Component for displaying individual recipe details.<br/>
    c) Footer.jsx : Contains code for the Footer.
 
 3) Context Folder
@@ -26,9 +26,8 @@ This project utilizes the Forkify API to fetch and display recipes. Users can vi
 
 4) Pages Folder
 
-   a) Home.jsx: Displays initial recipe items.
-   b) Details.jsx: Shows full details of a specific recipe, including ingredients.
-   c) Favorites.jsx: Displays all favorite recipes.
+   a) Home.jsx: Displays initial recipe items.<br/>
+   b) Details.jsx: Shows full details of a specific recipe, including ingredients.<br/>c) Favorites.jsx: Displays all favorite recipes.
   
 <b>How to Use</b>
 
