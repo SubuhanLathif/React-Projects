@@ -39,7 +39,7 @@ To run the Recipe API project locally, follow these steps :
 
 <b>Note : </b> Use Your Own API Key, Don't use Mine, bcoz its expired...
 
-<b>Contributor : </b> Subuhan Lathif
+<b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
 <b>License : </b> This project is licensed under the MIT License.
 
