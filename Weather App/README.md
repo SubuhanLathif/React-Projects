@@ -15,17 +15,15 @@ A React-based weather application that fetches and displays weather details for 
 
 <b>Project Structure</b>
 
-   1) App.jsx : All the codes are written in App.jsx (You may use diffrent components)
-      a) State variables for weather data, loading status, and error handling.
-      b) Functions to fetch weather data based on city name or current location.
-      c) useEffect to fetch weather data on initial load.
-      d) Form handling for city search.
-      e) Inside App.jsx, I have created <WeatherDetails/> component. To display weather details. It receives props for weather data and renders the information accordingly.
+   1) App.jsx : All the codes are written in App.jsx (You may use diffrent components)<br/>
+      a) State variables for weather data, loading status, and error handling.<br/>
+      b) Functions to fetch weather data based on city name or current location.<br/>
+      c) useEffect to fetch weather data on initial load.<br/>
+      d) Form handling for city search.<br/>
+      e) Inside App.jsx, I have created <WeatherDetails/> component. To display weather details. It receives props for weather data and 
+         renders the information accordingly.
 
-
-   2) ├── src/
-      │   ├── assets/
-      │   │   ├── animated-icons/ (all animated weather icons here)
+   2) src/assets/animated-icons/ (all animated weather icons here)
 
 
   
