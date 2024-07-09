@@ -29,7 +29,7 @@ A React-based weather application that fetches and displays weather details for 
   
 <b>How to Use</b>
 
-To run the Recipe API project locally, follow these steps :
+To run the Weather API project locally, follow these steps :
 
 1) Clone the repository.
 2) Install dependencies using npm install.
