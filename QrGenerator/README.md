@@ -36,4 +36,4 @@ To run the QR Generator API project locally, follow these steps :
 
 <b>Acknowledgements</b>
 
-1) QR Code provided by <a href="https://api.qrserver.com/" target="_blank">QR SErver.</a>
+1) QR Code provided by <a href="https://api.qrserver.com/" target="_blank">QR Server.</a>
