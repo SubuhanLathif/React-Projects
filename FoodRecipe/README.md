@@ -39,6 +39,6 @@ To run the Recipe API project locally, follow these steps :
 4) Explore the recipes, view details, add to favorites, and search for recipes.
 5) Technologies Used - React.js, Forkify API, HTML/CSS.
 
-<b>Contributor : </b> Subuhan Lathif
+<b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
 <b>License : </b> This project is licensed under the MIT License.
