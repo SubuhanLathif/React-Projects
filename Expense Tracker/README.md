@@ -14,8 +14,8 @@ In this application helps you manage and visualize your expenses and income usin
 <b>Project Structure</b>
  
 1) context > index.jsx - Global context file for managing state  
-2) components 
-  a) add-transaction > AddTransaction.jsx - Form for adding transactions.
+2) components <br/>
+  a) add-transaction > AddTransaction.jsx - Form for adding transactions.<br/>
   b) chart > Chart.jsx - Pie chart component using React-ApexCharts.
   c) expense-view > ExpenseView.jsx - Table component to list all the transactions.
   d) main > Main.jsx - Main component showing summary and expense view.
