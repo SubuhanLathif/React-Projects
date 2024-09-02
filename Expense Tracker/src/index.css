@@ -1,0 +1,37 @@
+:root{
+    --color1:#4e73df;  /*blue*/
+    --color2:#1cc88a;  /*greeen*/
+    --color3:#bb2d3b;  /*red*/
+    --color4:#f9bfbf;  /*light-red*/
+    --coloe5:#ffefef;  /*extra-light-red*/
+    --color6:#ffffff;  /*white*/
+}
+
+.bg-light-blue{background-color: #0093DD0B;}
+
+/* button{background-color: var(--color1) !important;padding:0.7em 1.4em !important;font-weight: 500 !important;
+letter-spacing: 0.5px;}
+button:hover {background-color:var(--color6) !important;color:var(--color1) !important;border-color:var(--color1) !important;} */
+
+.custom-btn {background-color: var(--color1) !important;font-weight: 500 !important;
+letter-spacing: 0.5px !important;color:var(--color6) !important;text-transform: capitalize !important;}
+.custom-btn:hover {background-color:var(--color6) !important;color:var(--color1) !important;border-color:var(--color1) !important;}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {border-radius:50rem !important;}
+
+mark{padding:0.3rem 0.5rem!important;border-radius:10px;}
+.MuiBox-root.css-1bure23:focus-visible{outline:none !important;}
+
+.apexcharts-legend.apexcharts-align-center.apx-legend-position-right{gap:0.5rem;justify-content: center;margin-top:-2rem;}
+.text-grey {color: #0009;}
+@media only screen and (max-width: 1024px) { 
+.addtransaction-modal {width:50% !important;}
+}
+
+@media only screen and (max-width: 767px) { 
+.addtransaction-modal {width:70% !important;}
+}
+
+@media only screen and (max-width: 575px) { 
+.navbar .custom-btn {padding:0 !important;}
+.addtransaction-modal {width:95% !important;}
+}
