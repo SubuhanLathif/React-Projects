@@ -32,7 +32,7 @@ To run the Recipe API project locally, follow these steps :
 4) Track your Expenses freely and user friendly.
 5) Technologies Used - React.js, Bootstrap, HTML/CSS, MUI components.
 
-<b>Contributor : </b> Subuhan Lathif
+<b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
 <b>License : </b> This project is licensed under the MIT License.
 
