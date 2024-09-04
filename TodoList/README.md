@@ -19,11 +19,13 @@ This is a simple Todo List application and use LocalStorage for saving our todo 
 
 To run the Todo List project locally, follow these steps :
 
-1) Clone the repository.
-2) Install dependencies using npm install | npm i.
-3) Start the development server with npm run dev.
-4) Track your Daily Todos freely and user friendly.
-5) Technologies Used - React.js, Bootstrap, HTML/CSS.
+1) Clone the repository to your local machine.
+2) Navigate to the project directory.
+3) Install dependencies using npm install or yarn install.
+4) Start the development server using npm run dev or yarn dev.
+5) Open your browser and visit the specified local server address to view the application.
+
+<b>Technologies Used : </b> React.js, Bootstrap, HTML/CSS.
 
 <b>Contributor : </b> Subuhan Lathif
 
