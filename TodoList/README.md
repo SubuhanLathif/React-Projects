@@ -27,7 +27,7 @@ To run the Todo List project locally, follow these steps :
 
 <b>Technologies Used : </b> React.js, Bootstrap, HTML/CSS.
 
-<b>Contributor : </b> Subuhan Lathif
+<b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
 <b>License : </b> This project is licensed under the MIT License.
 
