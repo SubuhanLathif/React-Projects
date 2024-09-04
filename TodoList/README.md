@@ -12,7 +12,7 @@ This is a simple Todo List application and use LocalStorage for saving our todo 
 <b>Project Structure</b>
  
 1) components 
-  a) ToDo.jsx - Add Task Form and Add | Remove | Update your daily Todos.
+  a) ToDo.jsx - Add Task Form and Add | Remove | Update your daily Todos.<br/>
   b) ToDoItems.jsx - Todo List Items code here.
 
 <b>How to Use</b>
