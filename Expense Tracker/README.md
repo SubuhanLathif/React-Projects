@@ -26,11 +26,13 @@ In this application helps you manage and visualize your expenses and income usin
 
 To run the Recipe API project locally, follow these steps :
 
-1) Clone the repository.
-2) Install dependencies using npm install.
-3) Start the development server with npm start.
-4) Track your Expenses freely and user friendly.
-5) Technologies Used - React.js, Bootstrap, HTML/CSS, MUI components.
+1) Clone the repository to your local machine.
+2) Navigate to the project directory.
+3) Install dependencies using npm install or yarn install.
+4) Start the development server using npm run dev or yarn dev.
+5) Open your browser and visit the specified local server address to view the application.
+
+<b>Technologies Used : </b> React.js, Bootstrap, HTML/CSS, MUI components.
 
 <b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
