@@ -33,11 +33,13 @@ This project utilizes the Forkify API to fetch and display recipes. Users can vi
 
 To run the Recipe API project locally, follow these steps :
 
-1) Clone the repository.
-2) Install dependencies using npm install.
-3) Start the development server with npm start.
-4) Explore the recipes, view details, add to favorites, and search for recipes.
-5) Technologies Used - React.js, Forkify API, HTML/CSS.
+1) Clone the repository to your local machine.
+2) Navigate to the project directory.
+3) Install dependencies using npm install or yarn install.
+4) Start the development server using npm run dev or yarn dev.
+5) Open your browser and visit the specified local server address to view the application.
+
+<b>Technologies Used : </b> React.js, Forkify API, HTML/CSS.
 
 <b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
 
