@@ -1,0 +1,16 @@
+body {font-family:Arial, Helvetica, sans-serif}
+.form-control:focus,.btn:focus{box-shadow: none !important;}
+button {font-size:0.9rem !important;}
+.users-table tr{vertical-align: middle;}
+.users-table thead th {background:#f2f2f2;}
+input[type=search] {width: 300px;}
+h4 {border-left:3px solid  #0005;background:#f2f2f2;width: fit-content;}
+.modal.fade.show {background:#0008;display: flex !important;align-items: center;}
+p.project-desc {font-size: 14px;letter-spacing: 0.5px;font-family: cursive;}
+
+/*style for react toast alert*/
+.toast-success {border-radius: 0 !important;margin-bottom: 0 !important;}
+.toast-success .Toastify__toast-icon svg {fill: #198754;}
+.Toastify__progress-bar--success {background: #198754 !important;}
+.Toastify__progress-bar--wrp {height:3px !important;}
+.Toastify__toast-body {color:#000;font-size: 14px;letter-spacing: 0.5px;}
