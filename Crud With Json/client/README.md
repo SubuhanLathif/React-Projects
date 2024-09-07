@@ -28,8 +28,9 @@ To run the CRUD Operation project locally, follow these steps :
 2) Navigate to the project directory.
 3) Navigate to client folder and Install dependencies using npm install or yarn install.
 4) Start the development server using npm run dev or yarn dev.
-5) Navigate to server folder and start the server using npm start in cmd.
-6) Open your browser and visit the specified local server address to view the application.
+5) Navigate to server folder and Install dependencies using npm install or yarn install.
+6) Start the server using npm start.
+7) Open your browser and visit the specified local server address to view the application.
 
 <b>Technologies Used : </b> React.js, Bootstrap, HTML/CSS, Express JS.
 
