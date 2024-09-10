@@ -1,4 +1,4 @@
-<b>Simple React Website using React Router DOM</b>
+<b>Simple React Website Using React Router DOM</b>
 
 <b>Decription</b>
 
