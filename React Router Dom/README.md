@@ -1,4 +1,4 @@
-<b>Simple React Website</b>
+<b>Simple React Website using React Router DOM</b>
 
 <b>Decription</b>
 
@@ -6,13 +6,13 @@ This project is a simple React website that demonstrates the use of React Router
 
 <b>Project Structure</b>
  
-1) components
+1) components<br/>
    a) MyNavbar.jsx - A simple Navbar code are written here.<br/>
    b) Footer.jsx - Footer code are written here.<br/>
-2) pages
-   a) Home.jsx
-   b) About.jsx
-   c) Services.jsx
+2) pages<br/>
+   a) Home.jsx<br/>
+   b) About.jsx<br/>
+   c) Services.jsx<br/>
    d) Contact.jsx
 
 <b>How to Use</b>
