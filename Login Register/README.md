@@ -1,4 +1,4 @@
-<b>Login - Register | Using React & Firebase</b>
+<b>Login - Register System Using React & Firebase</b>
 
 <b>Decription</b>
 
@@ -13,7 +13,7 @@ This application is a simple login and registration system built using React and
 
 <b>Project Structure</b>
  
-1) components
+1) components <br/>
    a) App.jsx <br/>
    b) Dashboard.jsx <br/>
    c) ForgetPassword.jsx <br/>
@@ -22,7 +22,7 @@ This application is a simple login and registration system built using React and
    f) UpdateProfile.jsx <br/>
    g) PrivateRoutes.jsx <br/>
 
-2) context
+2) context <br/>
    a) AuthContext.jsx - Register,Login,Logout,ForgetPassword,UpdateProfile all this methods are written here.
 
 3) src -> firebase.js - Initialize Firebase, the authentication module.
