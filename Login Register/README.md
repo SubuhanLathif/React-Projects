@@ -33,7 +33,7 @@ To run the Login - Register | Using React & Firebase project locally, follow the
 
 1) Clone the repository to your local machine.
 2) Navigate to the project directory Install dependencies using npm install or yarn install.
-3) In .env file, Replace your FIREBASE_API_KEY | FIREBASE_PROJECT_ID and Others.
+3) Create .env file in root dir. In .env file, Replace your FIREBASE_API_KEY | FIREBASE_PROJECT_ID and Others.
 4) Start the development server using npm run dev or yarn dev.
 5) Open your browser and visit the specified local server address to view the application.
 
