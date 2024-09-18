@@ -1,0 +1,8 @@
+section {background-image:url('../src/assets/section-bgimg2.svg');background-repeat: no-repeat;background-size:contain;background-position:center right;}
+form label {font-size:14px;margin-bottom:4px !important;}
+form .small-text {font-size:14px !important;}
+h6 {letter-spacing: 0.5px;}
+.react-img {animation: Spin infinite 10s linear;right:25%;top:10%;}
+.firebase-img {animation: MoveUpDown infinite 5s linear;right:15%;bottom:35%;rotate: -35deg;}
+@keyframes Spin {from {transform: rotate(0deg);}to {transform: rotate(360deg);}}
+@keyframes MoveUpDown {0%, 100% {transform: translateY(0);}50% {transform: translateY(-15px);}}
