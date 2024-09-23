@@ -24,7 +24,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application that de
 
 To run the CRUD Operation project locally, follow these steps :
 
-1) Clone the repository to your local machine.
+1) Clone the repository to your local machine or download the code.
 2) Navigate to the project directory.
 3) Navigate to client folder and Install dependencies using npm install or yarn install.
 4) Start the development server using npm run dev or yarn dev.
