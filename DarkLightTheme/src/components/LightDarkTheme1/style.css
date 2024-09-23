@@ -1,0 +1,33 @@
+:root {
+--color1 :#ffffff;
+--color2 : #000000;
+--color3 : #fff5;
+}
+
+[data-theme = 'light']{
+--color1 :#000000;
+--color2 : #ffffff;
+--color3 : #0005;
+}
+
+section {background: var(--color2) !important;}
+.card {width: 300px;background: var(--color2) !important;border: 1px solid var(--color3) !important;}
+.card-header {background:var(--color2) !important;}
+.card-body {color:var(--color1) !important;}
+.card-body img {border:1px solid var(--color3); width: 100px;}
+.card-body small{font-size:0.6rem; letter-spacing: 2px;}
+.card-body p {font-size:0.8rem;letter-spacing: 1px;}
+hr {margin: 1.5rem 0 0.7rem 0 !important;}
+i {cursor: pointer;color: var(--color1);}
+
+.card {box-shadow: 0 0 1.5rem 0rem rgba(255, 255, 255, 0.15);}
+section[data-theme = 'light'] .card {box-shadow: 0 0 1.5rem 0rem rgba(0, 0, 0, 0.15);}
+section[data-theme = 'light'] .logo img {filter: invert(1);}
+
+/*toggle switch css*/
+.switch {position: relative;display: inline-block;width: 40px;height: 20px;top:5px;}
+.switch input {opacity: 0;width: 0;height: 0;}
+.slider {position: absolute;cursor: pointer;top: 0;left: 0;right: 0;bottom: 0;background-color: #fff;transition: .4s;border-radius: 20px;}
+.slider:before {position: absolute;content: "";height: 15px;width: 15px;top:50%;left:4px;transform: translateY(-50%);background-color: var(--color2);transition: .4s;border-radius: 50%;}
+input:checked + .slider {background-color:#000;}
+input:checked + .slider:before {transform: translateX(26px) translateY(-50%);left:-5px;border: 1px solid;}
