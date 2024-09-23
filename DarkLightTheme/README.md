@@ -13,7 +13,7 @@ This project is a simple React application that implements dark and light theme 
 
 <b>Project Structure</b>
  
-1) components
+1) components<br/>
    a) LightDarkTheme1.jsx - A simple Navbar code are written here.<br/>
    b) UseLocalStorage.jsx - Footer code are written here.<br/>
    c) style.css - Footer code are written here.
