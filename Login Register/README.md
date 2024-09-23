@@ -31,7 +31,7 @@ This application is a simple login and registration system built using React and
 
 To run the Login - Register | Using React & Firebase project locally, follow these steps :
 
-1) Clone the repository to your local machine.
+1) Clone the repository to your local machine or download the code.
 2) Navigate to the project directory Install dependencies using npm install or yarn install.
 3) Create .env file in root dir. In .env file, Replace your FIREBASE_API_KEY | FIREBASE_PROJECT_ID and Others.
 4) Start the development server using npm run dev or yarn dev.
