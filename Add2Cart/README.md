@@ -29,7 +29,7 @@ The following packages were installed and utilized in this project:
 
 To run the Add2Cart project locally, follow these steps:
 
-1) Clone the repository to your local machine.
+1) Clone the repository to your local machine or download the code.
 2) Navigate to the project directory.
 3) Install dependencies using npm install or yarn install.
 4) Start the development server using npm run dev or yarn dev.
