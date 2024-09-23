@@ -19,7 +19,7 @@ This project is a simple React website that demonstrates the use of React Router
 
 To run this react website project locally, follow these steps :
 
-1) Clone the repository to your local machine.
+1) Clone the repository to your local machine or download the code.
 2) Install dependencies using npm install or yarn install.
 3) Start the development server using npm run dev or yarn dev.
 4) Open your browser and visit the specified local server address to view the application.
