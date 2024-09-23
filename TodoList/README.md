@@ -19,7 +19,7 @@ This is a simple Todo List application and use LocalStorage for saving our todo 
 
 To run the Todo List project locally, follow these steps :
 
-1) Clone the repository to your local machine.
+1) Clone the repository to your local machine or download the code.
 2) Navigate to the project directory.
 3) Install dependencies using npm install or yarn install.
 4) Start the development server using npm run dev or yarn dev.
