@@ -1,0 +1,18 @@
+section.home {
+  background-image: url('./assets/SectionBgImg.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 1000px;
+}
+form {width: 500px;}
+.form-control:focus,.form-select:focus {box-shadow: none !important;border-color: #0005 !important;}
+form label {font-size: 0.8rem;color: #fff;letter-spacing: 0.5px;}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none;-moz-appearance: none;appearance: none;margin: 0; }
+textarea {resize: none !important;}
+.form-group {position: relative;}
+.error-msg {font-size:0.7rem;position: absolute;}
+.btn:focus-visible {box-shadow: none !important;}
+table {font-size:14px;}
+table th {padding:0.8rem !important;}
+.gender-count p {font-size:14px;}
