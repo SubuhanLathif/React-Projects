@@ -17,9 +17,9 @@ This application is a simple registration system built using React, Node, MongoD
    a) RegisterForm.jsx <br/>
    b) RegisterUsersList.jsx <br/>
 
-2) server
-   a) server.js - all the backend methods are written here. Initialize the express application
-   b) routes/userRoutes.js - post new student registeration into db and fetch all students lists.
+2) server folder <br/>
+   a) server.js - all the backend methods are written here. Initialize the express application <br/>
+   b) routes/userRoutes.js - post new student registeration into db and fetch all students lists. <br/>
 
 <b>How to Use</b>
 
