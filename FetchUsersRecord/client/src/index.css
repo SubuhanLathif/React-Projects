@@ -1,0 +1,22 @@
+body{margin:0;background:#000;font-family: Arial, Helvetica, sans-serif;}
+.main-section {padding:2.5rem;}
+.loading-text {height: 100vh;display: flex;justify-content: center;align-items: center;font-size:1rem;color:#fff;margin:0;flex-direction: column;}
+.loading-text p {font-size:0.8rem;letter-spacing: 1px;}
+.tss-1x5mjc5-MUIDataTable-root {box-shadow: none !important;}
+.MuiToolbar-root {background:#2e2e2e;color:#fff;}
+.MuiTablePagination-toolbar {padding-right: 0 !important;}
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root {background:#fff !important; border-radius: 5px !important;}
+.tss-qbo1l6-MUIDataTableToolbar-actions {display: flex;justify-content: end;gap:0.5rem;}
+.css-ubpweo-MuiPaper-root-MuiPopover-paper {padding:1rem;top: 95px !important;
+    left: 1092px !important;width: 120px;}
+.css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar {min-height: 0 !important;border-radius: 5px;}
+.css-1w1rijm-MuiButtonBase-root-MuiButton-root {background:#2e2e2e !important;color:#fff !important;}
+.tss-bd2lw8-MUIDataTableHeadCell-sortActive, .css-1qgma8u-MuiButtonBase-root-MuiTableSortLabel-root.Mui-active .MuiTableSortLabel-icon {color:#fff !important;}
+.tss-1h5wt30-MUIDataTableSearch-searchIcon {background:#fff;border-radius: 5px;padding: 0.5rem;display: none !important;}
+.tss-733vlj-MUIDataTableSearch-searchText {background:#fff;padding: 0.2rem !important;border-radius:5px;margin-right: 8px !important;}
+.css-1ps6pg7-MuiPaper-root {background:#2e2e2e !important;color:#fff !important;border-radius:0 !important;padding: 8px !important;}
+.tss-g5rez6-MUIDataTableToolbarSelect-title {padding-left: 0 !important;}
+.css-953pxc-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled, .Mui-error):before {border-bottom: 2px solid transparent !important;}
+.css-953pxc-MuiInputBase-root-MuiInput-root::after, .css-953pxc-MuiInputBase-root-MuiInput-root::before {border-bottom: none !important;}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input {padding:0.3rem 0.5rem !important;}
+.tss-1akey0g-MUIDataTableHeadCell-data {text-transform: capitalize;}
