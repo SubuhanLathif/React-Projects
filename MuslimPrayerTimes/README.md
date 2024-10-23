@@ -13,9 +13,9 @@ MuslimPrayerTime is a web application built with React and Vite that displays ac
 
 <b>Project Structure</b>
  
-1) src
+1) src <br/>
    a) App.jsx - Get current location lat and long of the user by geolocation. <br/>
-2) src/components
+2) src/components <br/>
    a) Header.jsx <br/>
    b) HeroBanner.jsx <br/>
    c) PrayerTimes.jsx <br/>
