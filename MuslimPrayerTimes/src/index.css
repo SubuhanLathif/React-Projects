@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap');
+
+body {font-family: "Poppins", sans-serif !important;font-style: normal !important;}
+button.btn {background: linear-gradient(to right, #84fab0 0%, #8fd3f4 100%);color: #252f6c !important;font-size: 1rem;font-weight: 500;letter-spacing: 0.5px;transition: all 0.3s linear;}
+button.btn:hover {background: linear-gradient(to left,#84fab0 0%, #8fd3f4 100%);}
+.small-heading {color:#078999;font-size: 0.8rem;font-weight: 500;letter-spacing:0.2px;}
+
+.header img {width:60px;}
+.hero-banner .container {height:500px;
+  background: linear-gradient(50deg, rgba(235,248,254,1) 0%, rgba(237,254,244,1) 100%);}
+  .hero-banner .container > div {background-image:url('./assets/Mosque1.png');background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;}
+h1,h3 {color:#252f6c !important;}
+
+.prayertimes-section .small-heading {background:linear-gradient(50deg, rgba(235,248,254,1) 0%, rgba(237,254,244,1) 100%);}
+.prayertimes .row {overflow-x:scroll;}
+.prayertimes .row::-webkit-scrollbar{width: 0px;} 
+.prayertimes .col>div {background: linear-gradient(to right, #84fab0 0%, #8fd3f4 100%);border-radius: 1rem;padding:1px;}
+.prayertimes .col p {font-weight: 500;}
+.small-icon1 {filter: invert(100%) sepia(36%) saturate(2542%) hue-rotate(62deg) brightness(102%) contrast(94%);}
+.small-icon2 {filter: invert(78%) sepia(16%) saturate(902%) hue-rotate(162deg) brightness(100%) contrast(92%);}
+.prayertimes .col .content-box {background-repeat: no-repeat;background-size: 120px;background-position-x:5px;background-position-y: center;background-color:#fff;border-radius: 1rem;position:relative;z-index: 1;}
+.prayertimes .col .content-box::after {position: absolute;
+  content: '';
+  width: 250px;
+  height: 100%;
+  bottom: 0;
+  background: linear-gradient(40deg, #84fab0 0%, #84fab0 40%, #8fd3f4 100%);
+  z-index: -1;
+  right: 0;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 10rem;
+  border-top-right-radius: 1rem;}
+.prayertimes .col:nth-child(2) .content-box{background-image: url('./assets/Calendar1.gif');background-size:100px !important;}
+.prayertimes .col:nth-child(1) .content-box{background-image: url('./assets/Sunrise1.gif');}
+.prayertimes .col:nth-child(3) .content-box{background-image: url('./assets/Sunrise1.gif');}
+p.time {font-size: 2rem;font-weight: 600 !important;color:#252f6c;}
+
+
+.five-prayer-time .col>div {background:linear-gradient(50deg, rgb(235,248,254) 30%, rgb(237,254,244) 50%) ;border-radius: 1rem;}
+.five-prayer-time .col .content-box {background-image: url('./assets/Kaaba2.png');background-repeat: no-repeat;background-size: 180px;background-position-x: 10px;background-position-y: 35px;}
+.five-prayer-time .col:nth-last-child(1)>div {background:rgb(33,37,41) !important;}
+.five-prayer-time .col:nth-last-child(1) .content-box {background-image: url('./assets/Clock.png') !important;background-position: center right;background-size: 150px;}
+.five-prayer-time button {width: fit-content;}
+.footer .container {border-top-left-radius: 1rem;border-top-right-radius: 1rem;background: linear-gradient(50deg, rgb(235,248,254) 30%, rgb(237,254,244) 50%);}
+
+@media (max-width:991px)
+{
+  .hero-banner .container > div {background: none;}
+  .hero-banner .container {height:fit-content;}
+}
+@media (max-width:767px)
+{
+   p {font-size:0.8rem;}  
+   button.btn {padding:0.5rem 1rem !important;font-size:0.8rem;}
+  .header img {width:45px;}
+}
+
+
+.container {max-width: 1370px !important;}
+
+@media (max-width: 1200px) {
+  .container {max-width: 1190px !important;}
+}
+
+@media (max-width: 992px) {
+  .container {max-width: 1010px !important;}
+  .prayertimes .col {width: 380px;}
+  .prayertimes .row { --bs-gutter-x:1rem !important;}
+  .prayertimes .col .content-box {background-size: 100px;}
+  .prayertimes .col:nth-child(2) .content-box {background-size: 80px !important;}
+}
+
+@media (max-width: 768px) {
+  .container {max-width: 770px !important;}
+}
+
+@media (max-width: 576px) {
+  .container {max-width: 590px !important;}
+}
+
+
+@media (max-width: 480px) {
+  .hero-banner .container {border-radius: 1.5rem !important;}
+  .prayertimes .col .content-box::after {width:180px;border-top-left-radius:6rem;}
+  .prayertimes .col:nth-child(2) .content-box p.time {font-size: 1.5rem;}
+  .five-prayer-time .col .content-box {background-size: contain;background-position-y: 40px;padding-top:2rem !important;padding-bottom: 2rem !important;}
+  .five-prayer-time .col:nth-last-child(1) .content-box {background-size:100px;}
+  p.time {font-size: 1.8rem;}
+  .small-icon1,.small-icon2 {width: 18px;}
+  small {font-size: 0.700em !important;}
+}
+
+@media (max-width: 400px) {
+  .prayertimes .col .content-box::after {width:160px;}
+  .prayertimes .col:nth-child(2) .content-box p.time {font-size: 1.4rem;}
+  .prayertimes .col {width: 310px;}
+}
