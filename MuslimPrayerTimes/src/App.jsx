@@ -14,15 +14,20 @@ function App() {
     if(navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
-          console.log(position.coords.latitude);
-          console.log(position.coords.longitude);
+          // console.log(position.coords.latitude);
+          // console.log(position.coords.longitude);
           setLocation ({
             latitude:position.coords.latitude,
             longitude:position.coords.longitude,
           })
         },
-        () => {
-         // If user denies location, use Chennai as default
+        (error) => {
+
+        // If user denies location, show an alert and use default Chennai location
+        if (error.code === error.PERMISSION_DENIED) {
+        alert("To find prayer times near you, Please allow location access in your browser.");
+        }
+         // Set default location to Chennai
          setLocation ({
           latitude: 13.0843,
           longitude: 80.2705,
@@ -32,6 +37,7 @@ function App() {
     }
     else {
       // Browser doesn't support geolocation, use default Chennai
+      alert("Geolocation is not supported by this browser.");
       setLocation({
         latitude: 13.0843,
         longitude: 80.2705,
@@ -39,9 +45,9 @@ function App() {
     }
   }
 
-  useEffect(() => {
-    getUserLocation();
-  }, []);
+  // useEffect(() => {
+  //   getUserLocation();
+  // }, []);
 
   return (
     <>
