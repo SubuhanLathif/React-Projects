@@ -43,11 +43,11 @@ To run the Weather API project locally, follow these steps :
 <b>Technologies Used : </b> React.js, OpenWeatherMap API, HTML/CSS.
 
 <b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){:target="_blank"}.
 
 <b>License : </b> This project is licensed under the MIT License.
 
 <b>Acknowledgements</b>
 
-1) Weather data provided by <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap.</a>
+1) Weather data provided by <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap.</a> <br/>
 2) Weather Animated Icon provided by <a href="https://www.amcharts.com/free-animated-svg-weather-icons/" target="_blank">Amcharts</a>
