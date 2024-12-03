@@ -43,7 +43,7 @@ To run the Weather API project locally, follow these steps :
 <b>Technologies Used : </b> React.js, OpenWeatherMap API, HTML/CSS.
 
 <b>Contributor : </b> <a href="https://subuhanbca.netlify.app/" target="_blank">Subuhan Lathif </a>
-<b>Contributor : </b> [Subuhan Lathif](https://subuhanbca.netlify.app/){:target="_blank" rel="noopener"}
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
 <b>License : </b> This project is licensed under the MIT License.
 
